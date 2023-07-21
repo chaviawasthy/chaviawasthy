@@ -3,7 +3,7 @@
 <p>
 <img align = "right" alt="Coding" width="400" src = "https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif">
 
-- 🌱 I’m currently learning **React,JS, DSA and Firebase**
+- 🌱 I’m currently learning **ReactJS, DSA and Firebase**
 
 - 💬 Ask me about **Full Stack Development and DSA**
 
